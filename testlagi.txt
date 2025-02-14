@@ -1,0 +1,1 @@
+CREATE USER kuncikodemac WITH PASSWORD '279492aZ.';
