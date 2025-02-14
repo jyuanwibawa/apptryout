@@ -1,4 +1,4 @@
-package main.java.com.example.entity;
+package com.example.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -37,8 +37,4 @@ public class Course {
     public void setTime(int time) {
         this.time = time;
     }
-}
-
-public class Course {
-
 }
